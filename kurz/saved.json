@@ -1,0 +1,22 @@
+{
+  "skus_info": [
+    {
+      "total_price": 458.0,
+      "properties_name": "Square",
+      "properties": "1627207:117051",
+      "image_url": "http://img.alicdn.com/imgextra/i1/1793192090/O1CN01eFvpEr1RJGTKibWlz_!!1793192090.jpg"
+    },
+    {
+      "total_price": 198.0,
+      "properties_name": "Round",
+      "properties": "1627207:31865",
+      "image_url": "http://img.alicdn.com/imgextra/i4/1793192090/O1CN01JyHBVe1RJGU6gpfHe_!!1793192090.jpg"
+    }
+  ],
+  "additional_info": {
+    "weight": 1266.0,
+    "volume": "27.0*22.0*8.0",
+    "post_fee": 12.0,
+    "title": "Vintage cross embossed handmade brass silver plated distressed solid wood base square ashtray gift decoration"
+  }
+}

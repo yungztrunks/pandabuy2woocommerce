@@ -1,0 +1,76 @@
+{
+  "skus_info": [
+    {
+      "total_price": 65.0,
+      "properties_name": "anniversary(No Print), S, 0, 0, 0, 0, 0",
+      "properties": "1627207:7664831236;20509:28314",
+      "image_url": ""
+    },
+    {
+      "total_price": 65.0,
+      "properties_name": "anniversary(No Print), 0, M, 0, 0, 0, 0",
+      "properties": "1627207:7664831236;20509:28315",
+      "image_url": ""
+    },
+    {
+      "total_price": 65.0,
+      "properties_name": "anniversary(No Print), 0, 0, L, 0, 0, 0",
+      "properties": "1627207:7664831236;20509:28316",
+      "image_url": ""
+    },
+    {
+      "total_price": 65.0,
+      "properties_name": "anniversary(No Print), 0, 0, 0, XL, 0, 0",
+      "properties": "1627207:7664831236;20509:28317",
+      "image_url": ""
+    },
+    {
+      "total_price": 65.0,
+      "properties_name": "anniversary(No Print), 0, 0, 0, 0, XXL, 0",
+      "properties": "1627207:7664831236;20509:28318",
+      "image_url": ""
+    },
+    {
+      "total_price": 90.0,
+      "properties_name": "0, S, 0, 0, 0, 0, anniversary(Custom Print)",
+      "properties": "1627207:7664831237;20509:28314",
+      "image_url": ""
+    },
+    {
+      "total_price": 90.0,
+      "properties_name": "0, 0, M, 0, 0, 0, anniversary(Custom Print)",
+      "properties": "1627207:7664831237;20509:28315",
+      "image_url": ""
+    },
+    {
+      "total_price": 90.0,
+      "properties_name": "0, 0, 0, L, 0, 0, anniversary(Custom Print)",
+      "properties": "1627207:7664831237;20509:28316",
+      "image_url": ""
+    },
+    {
+      "total_price": 90.0,
+      "properties_name": "0, 0, 0, 0, XL, 0, anniversary(Custom Print)",
+      "properties": "1627207:7664831237;20509:28317",
+      "image_url": ""
+    },
+    {
+      "total_price": 90.0,
+      "properties_name": "0, 0, 0, 0, 0, XXL, anniversary(Custom Print)",
+      "properties": "1627207:7664831237;20509:28318",
+      "image_url": ""
+    }
+  ],
+  "additional_info": {
+    "weight": "0",
+    "volume": "0",
+    "post_fee": 0.0,
+    "title": "# A.rgentin 2022 anniversary jersey [ID:2131612] S-2XL",
+    "price": "65.0",
+    "images": [
+      {
+        "url": "https://img.alicdn.com/bao/uploaded/i4/155008695/O1CN01qEDXNl2E6MhAFzLwi_!!155008695.jpg"
+      }
+    ]
+  }
+}

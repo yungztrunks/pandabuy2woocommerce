@@ -1,0 +1,160 @@
+{
+    "data": {
+        "item": {
+            "timeInfo": {
+                "volume": "27.0*22.0*8.0",
+                "weight": 1266.0
+            },
+            "detail_url": "https://item.taobao.com/item.htm?id=652343795995",
+            "searchUrl": "https://item.taobao.com/item.htm?id=652343795995",
+            "post_fee": 12.0,
+            "ems_fee": 0.0,
+            "express_fee": 12.0,
+            "num": 81,
+            "num_iid": "652343795995",
+            "dataSource": null,
+            "thirdInfoVO": null,
+            "title": "Vintage cross embossed handmade brass silver plated distressed solid wood base square ashtray gift decoration",
+            "sales": "400",
+            "providerType": "taobao",
+            "desc_short": "",
+            "nick": "\u8001\u7f57\u4ed3\u5e93",
+            "price": "198",
+            "suggestive_price": "0",
+            "props_name": "1627207:31865:Color classification:Round;1627207:117051:Color classification:Square;",
+            "orginal_price": "198",
+            "total_sold": "400",
+            "seller_id": "1793192090",
+            "favcount": "200",
+            "total_price": "0",
+            "fanscount": "1.7\u4e07",
+            "off": "",
+            "shop_id": "106400327",
+            "min_num": 0,
+            "item_mv": "",
+            "titleCn": "\u590d\u53e4 \u5341\u5b57\u67b6\u6d6e\u96d5 \u624b\u5de5\u9ec4\u94dc\u9540\u94f6\u505a\u65e7\u5b9e\u6728\u5e95\u5ea7 \u65b9\u5f62\u70df\u7070\u7f38\u793c\u54c1\u6446\u4ef6",
+            "pic_url": "//img.alicdn.com/imgextra/i4/1793192090/O1CN01LUeUmu1RJGZluiK4x_!!1793192090.jpg",
+            "cid": "50020904",
+            "desc": "",
+            "noReason7DReturn": "supported",
+            "responseTime": "0.432",
+            "skus": {
+                "sku": [
+                    {
+                        "specId": null,
+                        "properties_name": "1627207:117051:Color classification:Square;",
+                        "quantity": 48,
+                        "weight": null,
+                        "total_price": 458.0,
+                        "price": 458.0,
+                        "limit": "",
+                        "sku_id": "4871926458255",
+                        "orginal_price": 458.0,
+                        "properties": "1627207:117051",
+                        "logistics_time": "0"
+                    },
+                    {
+                        "specId": null,
+                        "properties_name": "1627207:31865:Color classification:Round;",
+                        "quantity": 33,
+                        "weight": null,
+                        "total_price": 198.0,
+                        "price": 198.0,
+                        "limit": "",
+                        "sku_id": "4911269259223",
+                        "orginal_price": 198.0,
+                        "properties": "1627207:31865",
+                        "logistics_time": "0"
+                    }
+                ]
+            },
+            "prop_arr": [
+                {
+                    "valueId": "31865",
+                    "valueName": "Round",
+                    "propId": "1627207",
+                    "propName": "Color classification"
+                },
+                {
+                    "valueId": "117051",
+                    "valueName": "Square",
+                    "propId": "1627207",
+                    "propName": "Color classification"
+                }
+            ],
+            "translate_prop_arr": [
+                {
+                    "valueId": "31865",
+                    "valueName": "\u5706\u5f62",
+                    "propId": "1627207",
+                    "propName": "\u989c\u8272\u5206\u7c7b"
+                },
+                {
+                    "valueId": "117051",
+                    "valueName": "\u65b9\u5f62",
+                    "propId": "1627207",
+                    "propName": "\u989c\u8272\u5206\u7c7b"
+                }
+            ],
+            "props_img": {
+                "1627207:31865": "http://img.alicdn.com/imgextra/i4/1793192090/O1CN01JyHBVe1RJGU6gpfHe_!!1793192090.jpg",
+                "1627207:117051": "http://img.alicdn.com/imgextra/i1/1793192090/O1CN01eFvpEr1RJGTKibWlz_!!1793192090.jpg"
+            },
+            "item_imgs": [
+                {
+                    "url": "//img.alicdn.com/imgextra/i4/1793192090/O1CN01LUeUmu1RJGZluiK4x_!!1793192090.jpg"
+                },
+                {
+                    "url": "//img.alicdn.com/imgextra/i2/1793192090/O1CN0132jp911RJGTTiAX9K_!!1793192090.jpg"
+                },
+                {
+                    "url": "//img.alicdn.com/imgextra/i2/1793192090/O1CN011Ek6PH1RJGTQZV29d_!!1793192090.jpg"
+                },
+                {
+                    "url": "//img.alicdn.com/imgextra/i3/1793192090/O1CN01kBbL7r1RJGTUQFz1X_!!1793192090.jpg"
+                },
+                {
+                    "url": "//img.alicdn.com/imgextra/i3/1793192090/O1CN01Sy9fwF1RJGU1ZvGV1_!!1793192090.jpg"
+                }
+            ],
+            "props": [
+                {
+                    "value": "Copper",
+                    "name": "Material"
+                },
+                {
+                    "value": "European style",
+                    "name": "Style"
+                },
+                {
+                    "value": "Square, round",
+                    "name": "Color classification"
+                },
+                {
+                    "value": "Distressed",
+                    "name": "Craft"
+                }
+            ],
+            "seller_info": {
+                "nick": "\u752c\u5c1a\u68c9\u5e84",
+                "delivery_score": "",
+                "level": "11",
+                "shop_type": null,
+                "item_score": "",
+                "user_num_id": "1793192090",
+                "zhuy": "https://shop106400327.taobao.com/",
+                "shop_logo": "https://img.alicdn.com/imgextra//93/e6/TB1E6YuJFXXXXbaXVXXSutbFXXX.jpg",
+                "shop_name": "\u8001\u7f57\u4ed3\u5e93",
+                "title": "\u8001\u7f57\u4ed3\u5e93",
+                "score_p": "",
+                "sid": "106400327"
+            },
+            "activity_discount": [],
+            "reason": "",
+            "tags": null
+        },
+        "validToken": true,
+        "detailUrl": "https://item.taobao.com/item.htm?id=652343795995",
+        "itemResultCode": null
+    }
+}
